@@ -41,6 +41,19 @@ A simple and intuitive task management app for organizing daily activities.
 
 ---
 
+## 🎓 Education
+
+- **Advanced Diploma in Application Development (2025)**  
+  Focused on cloud development, application security, and software engineering.
+
+- **Diploma in Information Technology – Software Development (2024)**  
+  Strong foundation in C#, SQL Server, and application development.
+
+- **Higher Certificate in IT Support Services (2023)**  
+  Core skills in IT support, troubleshooting, and networking.
+
+---
+
 ## 📬 Contact
 
 - 📧 Email: nnmnyembe@gmail.com  
